@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "displayName": "Linked App Template",
+  "name": "own-data-check-app",
+  "displayName": "Own data check",
   "description": "Linked app — base repository for new Linked apps.",
   "version": "0.1.0",
   "private": true,
